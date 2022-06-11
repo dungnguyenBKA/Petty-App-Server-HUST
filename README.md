@@ -1,7 +1,7 @@
-# nodejs-petty
+# Petty App Project HUST 2022
 
-## Prequitesite
+## Link App
+[Not deploy yet](https://www.facebook.com/profile.php?id=100033110600262)
 
- - node v12.18.3
- - npm 6.14.6
- - postgresql 10
+## Author
+[Nguyen Minh Dzung](https://www.facebook.com/profile.php?id=100033110600262)
