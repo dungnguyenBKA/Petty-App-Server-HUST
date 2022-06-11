@@ -11,7 +11,7 @@ const Users = sequelize.define(dbName, {
   avatar: Sequelize.STRING(1000),
 }, {
   defaultScope: {
-    attributes: { exclude: ['password'] },
+    attributes: {exclude: ['password']},
   }
 });
 

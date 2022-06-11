@@ -1,4 +1,5 @@
 import sequelize from '../db';
+
 const Sequelize = require('sequelize');
 
 const dbName = 'Pets';
